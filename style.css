@@ -1,0 +1,29 @@
+.icon_pic{
+    width: 25%;
+    display:inline-block;
+    order: 1;
+    vertical-align:top;
+    margin-top: 140px;
+}
+
+.icon{
+    
+    width: 15%;
+    height: 50px;
+    display:inline-block;
+    margin: 10px 50% ;
+}
+
+.pic{
+    width: 450px;
+    height: 450px;
+    border-radius: 20px;
+}
+
+.picture{
+    width: 25%;
+    display:inline-block;
+    order: 2;
+    vertical-align:top;
+    margin-top: 70px;
+}
